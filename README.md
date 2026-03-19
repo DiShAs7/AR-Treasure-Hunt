@@ -1,5 +1,5 @@
 # 🪙 AR Treasure Hunt
-
+![AR Treasure Hunt Gameplay](artreasurehunt.gif)
 A fun Augmented Reality coin collection game built with Unity and ARCore.
 
 ## Features
